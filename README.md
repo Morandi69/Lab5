@@ -315,3 +315,5 @@
 ![](Mathematican.png)
 ![](ClosuresAndScopes.png)
 ![](Secret.png)
+![](Map.png)
+![](Filter.png)
