@@ -1,5 +1,5 @@
 
-<h2 style="text-align: center; margin-top: 100px;font-size:40px">Лабораторная работа №4</h2>
+<h2 style="text-align: center; margin-top: 100px;font-size:40px">Лабораторная работа №5</h2>
 <h2 style="text-align: center; margin-top:10px">Основы языка JavaScript</h2>
 <h3 style="text-align: right; margin-top:400px">Выполнил студент 3 курса <br> Чагочкин Никита</h3>
 <h3 style="text-align: center; margin-top:40px">Южно-Сахалинск <br>2022 г. </h3>
